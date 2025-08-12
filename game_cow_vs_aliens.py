@@ -7,7 +7,6 @@ from pgzero.builtins import Actor, keyboard
 from pgzero.clock import schedule_interval
 from random import randint
 
-
 #background_game limites
 #tamanho dos tiles e do mundo
 TILE_WIDTH = 32
